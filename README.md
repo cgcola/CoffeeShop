@@ -45,5 +45,3 @@ These classes add specific features (cost and description) to the wrapped Coffee
     * **Implementation:**
         * `getDescription()`: returns `wrappedCoffee.getDescription() + ", Caramel Syrup"`
         * `getCost()`: returns `wrappedCoffee.getCost() + ₱ 40.00`
-
----
